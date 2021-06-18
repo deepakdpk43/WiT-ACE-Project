@@ -1,4 +1,4 @@
-![arch_ml](https://user-images.githubusercontent.com/85717928/122575381-52db0f00-d06e-11eb-8798-b7969d7b8f92.png)
+
 # REDUCING CARBON DIOXIDE LEVEL BY GROWING TREES AND GRASS (Tree and Grass Land Prediction System)
 
 ## Contents
@@ -37,8 +37,7 @@ Through our project, we are aiming to predict number of trees and area of grass 
 ## Demo Video:
 
 ## Architecture:
-![GitHub Logo](/images/![arch_ml](https://user-images.githubusercontent.com/85717928/122575696-a2213f80-d06e-11eb-9b5c-1463bd24d320.png)
-)
+![arch_ml](https://user-images.githubusercontent.com/85717928/122575381-52db0f00-d06e-11eb-8798-b7969d7b8f92.png)
 
 ## Long Description:
 * We collected data of Forests of every district of India and calulated it's carbon dioxide exchange.
