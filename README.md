@@ -54,7 +54,7 @@ Through our project, we are aiming to predict number of trees and area of grass 
 ## Get Started:
 
 ### First download the dataset:
-* Go to the data folder and download the dataset FinalTrees.csv
+* Download the dataset FinalTrees.csv
 
 ### Train the model and Deployment:
 * Download the libraries - pandas, sklearn, numpy, ibm_watson_machine_learning
