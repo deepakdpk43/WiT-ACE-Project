@@ -1,4 +1,5 @@
 
+
 # REDUCING CARBON DIOXIDE LEVEL BY GROWING TREES AND GRASS (Tree and Grass Land Prediction System)
 
 ## Contents
@@ -35,11 +36,12 @@ Through our project, we are aiming to predict number of trees and area of grass 
 * We created a Machine Learning Predictor Model that can predict No. of Trees and Grass Land Area for a given Geographical Area of a Region on the basis of plantation, population and carbon dioxide exchange.
 
 ## Demo Video:
+https://youtu.be/O58QIQHzFlM
 
 ## Architecture:
 ![arch_ml](https://user-images.githubusercontent.com/85717928/122575381-52db0f00-d06e-11eb-8798-b7969d7b8f92.png)
 
-## Long Description:
+## Long Description and Solution Roadmap:
 * We collected data of Forests of every district of India and calulated it's carbon dioxide exchange.
 * We did same for the population data of India
 * We gathered data from carbon dioxide emission from every district
@@ -55,7 +57,7 @@ Through our project, we are aiming to predict number of trees and area of grass 
 ## Get Started:
 
 ### First download the dataset:
-* Download the dataset FinalTrees.csv
+* Download the dataset finalTrees.csv
 
 ### Train the model and Deployment:
 * Download the libraries - pandas, sklearn, numpy, ibm_watson_machine_learning
@@ -66,7 +68,7 @@ Through our project, we are aiming to predict number of trees and area of grass 
 * Run it and then test for different inputs
 
 ## Live Video:
-
+https://youtu.be/1dRdveWz7rc
 
 ## Version:
 Version of our project: Version 1.0
