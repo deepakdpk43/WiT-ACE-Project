@@ -75,10 +75,10 @@ Version of our project: Version 1.0
 
 ## Authors:
 * Hemangee De
+* Deepak Kumar
 * Kundan Prakash Jha
 * Neha Jhawar
 * Rachna Agarwal
-* Deepak Kumar
 
 
 ## Acknowledgement:
